@@ -57,8 +57,5 @@ int main()
         rangoARevisar++;
     }
 
-    cout << "Presiona Enter para salir...";
-    cin.ignore();
-    cin.get();
     return 0;
 }
